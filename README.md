@@ -1,2 +1,2 @@
 # HighUp
-game
+Remake of the high up game
